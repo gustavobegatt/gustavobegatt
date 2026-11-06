@@ -39,8 +39,7 @@ Estudante de Tecnologia & Analista de Dados em formação. Apaixonado por transf
 ---
 
 ### 📌 Objetivos de Carreiras & Interesses
-- [ ] Graduação em **Gestão de TI** / **Ciência de Dados**
-- [ ] Certificações em Nuvem (AWS / Google Cloud)
+- [ ] Graduação em **Gestão de TI** / **Ciência de Dados** / **Jornalismo** 
 - [ ] Desenvolvimento de liderança na área corporativa de tecnologia
 
 ---
