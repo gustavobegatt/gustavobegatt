@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Begatti Ferreira 👋
+# Olá, eu sou o Gustavo Begatti👋
 
 Estudante de Tecnologia & Analista de Dados em formação. Apaixonado por transformar dados em soluções estratégicas, inovação e liderança em TI.
 
