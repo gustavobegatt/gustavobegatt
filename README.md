@@ -46,5 +46,4 @@ Estudante de Tecnologia & Analista de Dados em formação. Apaixonado por transf
 
 ### 📬 Conecte-se comigo
 
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@gustavobegatti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:begattiferreiragustavo@gmail.com)
